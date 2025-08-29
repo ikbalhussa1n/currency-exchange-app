@@ -16,7 +16,7 @@ A simple and efficient web application to convert currencies in real-time. This 
 
 ## Demo
 
-You can add a link or screenshot of your deployed app here.
+<img width="960" height="408" alt="currencyExchangePNG" src="https://github.com/user-attachments/assets/8c99cb6b-5e53-4e8a-b2a1-93473d7dc763" />
 
 ---
 
