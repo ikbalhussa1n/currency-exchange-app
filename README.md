@@ -24,7 +24,7 @@ A simple and efficient web application to convert currencies in real-time. This 
 
 - **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **API:** [Insert your currency exchange API, e.g., ExchangeRate API]
+- **API:** https://fxratesapi.com/
 - **Others:** Axios for HTTP requests, CORS handling
 
 ---
